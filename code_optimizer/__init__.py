@@ -1,3 +1,1 @@
-from .app import create_app
-
-__all__ = ["create_app"]
+# code_optimizer package init
